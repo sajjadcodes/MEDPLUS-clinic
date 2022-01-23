@@ -1,0 +1,28 @@
+
+
+
+
+/* Utilities */
+
+
+
+/* Componens */
+
+
+
+
+
+
+/* Section: Hero */
+.hero {
+	position: relative;
+	background: url('/includes/images/Banner\ Mask.png');
+	min-height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+.bg-light {
+	background-color: transparent !important;
+}
+
